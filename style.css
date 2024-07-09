@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #3a1111;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #app {
+    max-width: 600px;
+    margin: 30px auto;
+    background: #0f0533;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(82, 18, 53, 0.1);
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input, select, button {
+    padding: 10px;
+    margin: 5px;
+    font-size: 1em;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 10px;
+    background: #9c1e1e;
+    border-bottom: 1px #1f0505 solid;
+  }
